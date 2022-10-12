@@ -1,7 +1,7 @@
 /**
  *
  *  ==== NOTICE =====
- * The code in this file is translated typescript take from:
+ * The code in this file is translated typescript taken from:
  * https://github.com/defucilis/funscript-utils
  *
  * All credit goes to Defucilis:
