@@ -1,0 +1,11 @@
+preview_height:
+  type: integer
+  default: 25
+  description:
+    en: "Height in px of the funscript heatmap preview."
+
+preview_width:
+  type: integer
+  default: 500
+  description:
+    en: "width in px of the funscript heatmap preview."
